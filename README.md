@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Ravindu</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RavinduPe&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
 
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:raviduy60@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://your-portfolio.com" target="_blank">
